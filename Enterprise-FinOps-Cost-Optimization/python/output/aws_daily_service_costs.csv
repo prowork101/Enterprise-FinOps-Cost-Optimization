@@ -1,0 +1,51 @@
+Date,Service,Cost
+2026-06-16,AWS Data Transfer,-0.0
+2026-06-16,AWS Glue,0.0
+2026-06-16,AWS Key Management Service,0.0
+2026-06-16,AWS Secrets Manager,0.0
+2026-06-16,EC2 - Other,0.0
+2026-06-16,Amazon Elastic Compute Cloud - Compute,0.0
+2026-06-16,Amazon Simple Notification Service,0.0
+2026-06-16,Amazon Simple Queue Service,0.0
+2026-06-16,Amazon Simple Storage Service,0.0
+2026-06-16,Amazon Virtual Private Cloud,0.0
+2026-06-16,AmazonCloudWatch,0.0
+2026-06-17,AWS Glue,0.0
+2026-06-17,AWS Key Management Service,0.0
+2026-06-17,AWS Secrets Manager,0.0
+2026-06-17,EC2 - Other,0.0
+2026-06-17,Amazon Elastic Compute Cloud - Compute,0.0
+2026-06-17,Amazon Simple Queue Service,0.0
+2026-06-17,Amazon Simple Storage Service,0.0
+2026-06-17,Amazon Virtual Private Cloud,0.0
+2026-06-17,AmazonCloudWatch,0.0
+2026-06-18,AWS Glue,0.0
+2026-06-18,Amazon Simple Notification Service,0.0
+2026-06-18,Amazon Simple Storage Service,0.0
+2026-06-19,AWS Glue,0.0
+2026-06-20,AWS Glue,0.0
+2026-06-21,AWS Glue,0.0
+2026-06-21,EC2 - Other,-0.0
+2026-06-21,Amazon Elastic Compute Cloud - Compute,0.0
+2026-06-21,Amazon Simple Notification Service,0.0
+2026-06-21,Amazon Simple Storage Service,0.0
+2026-06-21,Amazon Virtual Private Cloud,0.0
+2026-06-21,AmazonCloudWatch,0.0
+2026-06-22,AWS Glue,0.0
+2026-06-22,AWS Key Management Service,0.0
+2026-06-22,AWS Secrets Manager,0.0
+2026-06-22,Amazon Simple Queue Service,0.0
+2026-06-22,Amazon Simple Storage Service,0.0
+2026-06-23,AWS Glue,0.0
+2026-06-23,Amazon Simple Notification Service,0.0
+2026-06-23,Amazon Simple Storage Service,0.0
+2026-06-24,AWS Glue,0.0
+2026-06-25,AWS Glue,0.0
+2026-06-26,AWS Glue,0.0
+2026-06-26,Amazon Simple Storage Service,0.0
+2026-06-27,AWS Glue,0.0
+2026-06-27,Amazon Simple Storage Service,0.0
+2026-06-28,AWS Glue,0.0
+2026-06-28,AWS Secrets Manager,0.0
+2026-06-28,Amazon Simple Notification Service,0.0
+2026-06-29,AWS Glue,0.0
